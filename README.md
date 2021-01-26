@@ -1,7 +1,7 @@
 ## Hello fellow Pythoners!
 My name is Marcin and I mostly write Python scripts to automate my daily stuff or whenever I find some cool idea on the internet. I love webscraping data from various websites so naturally **Selenium**, **Scrapy** and **BeautifulSoup** are my best friends 😄
 
-I currently study at Wroclaw University of Science and Technology and it's ~~terrible~~ amazing.
+I currently study at Wroclaw University of Science and Technology and it's ~~terrible~~ amazing. Apart from all the things I already told you I recently fell in love with Capture the Flag competitions where I have to apply some of the Python knowledge to speed up some tasks or gain valuable intel.
 
 ## About me
 ```python
