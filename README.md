@@ -10,6 +10,7 @@ marcin = {
 }
 ```
 ## My cool repos
+ - [OLX API Scraper](https://github.com/dixone23/olx-api-scraper) - my first bigger project using FastAPI and BeautifulSoup to scrape offers from Polish website. Also it serves as a platform to learn basic CI/CD operations (Github Actions) along with structuring projects for builds and releases.
  - [PythonDesktopCleaner](https://github.com/dixone23/PythonDesktopCleaner) - implementation of an idea from a YouTuber Kalle Hallden where the script categorizes and cleans out your desktop (or any given path for that matter)
  - [PyCryptor](https://github.com/dixone23/PyCryptor) - simple script to safely encrypt your files with a safe-key that you will have to save in order to not lose your hentai
  - [universal-forms-submitter](https://github.com/dixone23/universal-forms-submitter) - a work-in-progress script to automatically fill out Google Forms (without text answers yet)
