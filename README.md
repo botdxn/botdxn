@@ -1,4 +1,5 @@
 ## About me
+### (aka. what I want others to think about me)
 ```python
 marcin = {
 	"age": "26",
@@ -18,7 +19,7 @@ marcin = {
  - [universal-forms-submitter](https://github.com/dixone23/universal-forms-submitter) - a work-in-progress script to automatically fill out Google Forms (without text answers yet)
 
 ## Future ideas
-### idk where I'll be 5 years from now but I know what I'll be coding
+### (idk where I'll be 5 years from now but I know what I'll be coding)
 - SEO Analyzer: plugging in URL for a website (probably a static one at first) will result in a huge analysis of its' SEO indicators (alongside with trendy "technical SEO")
 - Gmail Debloater: removing spam from Google inbox and doing some under-the-hood analysis of the headers (maybe against Virustotal database or CERT.pl list of dangerous domains) - parts of the work already started (see: "virustotal_checker")
 ... more to come
