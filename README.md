@@ -2,11 +2,12 @@
 ### (aka. what I want others to think about me)
 ```python
 marcin = {
-	"age": "27",
+	"age": "28",
 	"main_language": "python",
-	"hobbies": "['coding','photography','video editing','esports and videogames','hackintoshing','fixing my car']",
+	"hobbies": "['it infrastructure','cybersecurity','sysadministration','siem','edr','virtualization','proxmox']",
 	"university": "wroclaw university of science and technology",
-	"faculty": "IT and management"
+	"faculty": "IT and management",
+	"curr_empl": "cybersecurity engineering"
 }
 ```
 ## My cool repos
